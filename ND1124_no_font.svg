@@ -1,0 +1,30 @@
+<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text" viewBox="70 38 311 108" preserveAspectRatio="xMidYMid meet" style="background-color:#fff;">
+	<defs>
+		<style type="text/css">
+			<![CDATA[
+				#layout svg {
+					overflow: visible;
+				}
+				@font-face {
+						font-family: 'pro_block';
+						src:
+						    url('http://richardsoncap.magentostaging.com/customizer/fonts/pro_block.ttf') format('truetype'),
+						    url('http://richardsoncap.magentostaging.com/customizer/fonts/pro_block.woff2') format('woff2'),
+						    url('http://richardsoncap.magentostaging.com/customizer/fonts/pro_block.woff') format('woff2');
+						font-weight: regular;
+					}
+				@font-face {
+						font-family: 'uni_script';
+						src:
+						    url('http://richardsoncap.magentostaging.com/customizer/fonts/uni_script.ttf') format('truetype'),
+						    url('http://richardsoncap.magentostaging.com/customizer/fonts/uni_script.woff2') format('woff2'),
+						    url('http://richardsoncap.magentostaging.com/customizer/fonts/uni_script.woff') format('woff2');
+						font-weight: regular;
+					}
+				]]>
+		</style>
+	</defs>
+	<path id="color-1" fill-rule="evenodd" clip-rule="evenodd" fill="#B82026" d="M89.3,99.1h48.1v6H89.3V99.1z M319.5,99.1h44.8v6h-44.8V99.1z" />
+	<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text" x="226.75" y="90.9" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="66px" letter-spacing="0">FREMONT</text>
+	<text id="bottom_text" data-name="bottom_text" data-text-max="7" class="bottom_text text" x="225.05" y="125" text-anchor="middle" fill="#B82026" font-family="uni_script" font-size="63.6px" letter-spacing="0">Tigers</text>
+</svg>

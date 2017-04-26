@@ -1,0 +1,44 @@
+<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text" viewBox="109 31 231.5 112" preserveAspectRatio="xMidYMid meet" style="background-color:#fff;">
+	<defs>
+		<style type="text/css">
+			<![CDATA[
+				@font-face {
+							font-family: 'city_block';
+							src: url('http://richardsoncap.magentostaging.com/customizer/fonts/cityb.woff') format('woff'),
+								 url('http://richardsoncap.magentostaging.com/customizer/fonts/cityb.woff2') format('woff2');
+							font-weight: bold;
+							}
+				 @font-face {
+							font-family: 'plain';
+					    src: 
+							url('http://richardsoncap.magentostaging.com/customizer/fonts/plain.woff2') format('woff2'),
+							url('http://richardsoncap.magentostaging.com/customizer/fonts/plain.woff') format('woff2');
+							font-weight: regular;
+							}
+				#layout svg {
+					overflow: visible;
+				}
+]]>
+		</style>
+	</defs>
+
+    <svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet">
+        <defs>
+            <path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M139.105,71.66c12.167-14.26,47.992-24.012,88.21-24.012c38.984,0,73.974,9.163,87.123,22.815"/>
+        </defs>
+        <text text-anchor="middle">
+            <textPath id="top_text" data-name="top_text" data-text-max="12" class="top_text text drag-target" xlink:href="#text_curve" startOffset="50%" fill="#B82026" font-family="plain" font-size="17.8px">LAKEWOOD</textPath>
+        </text>
+    </svg>
+    <svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
+        <text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target" x="224.25" y="110.5" text-anchor="middle" stroke-width="2" fill="#0B162E" stroke="#B82026" font-family="city_block" font-size="64.15px" letter-spacing="2">TIGERS</text>
+    </svg>
+    <svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
+        <path id="color-1" class="drag-target color-1" fill="#B82026" d="M281.344,141.883H172.2c-5.723,0-10.362-4.639-10.362-10.362v-2.453
+	c0-5.723,4.639-10.362,10.362-10.362h109.144c5.723,0,10.362,4.639,10.362,10.362v2.453
+	C291.706,137.243,287.067,141.883,281.344,141.883z"/>
+        <text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" x="227" y="137.5" text-anchor="middle" fill="#FFFFFF" font-family="plain" font-size="15.5px" letter-spacing="0.5">FOOTBALL</text>
+    </svg>
+</svg>
+
+

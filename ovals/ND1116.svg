@@ -1,0 +1,35 @@
+<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text" viewBox="144 32 165 89.5" preserveAspectRatio="xMidYMid meet" style="background-color:#fff;">
+	<defs>
+		<style type="text/css">
+			<![CDATA[
+				@font-face {
+					font-family: 'pro_block';
+					src: 
+						url('http://richardsoncap.magentostaging.com/customizer/fonts/pro_block.ttf') format('truetype'),
+						url('http://richardsoncap.magentostaging.com/customizer/fonts/pro_block.woff2') format('woff2'),
+						url('http://richardsoncap.magentostaging.com/customizer/fonts/pro_block.woff') format('woff2');
+					font-weight: regular;
+					}
+					#layout svg {
+					overflow: visible;
+				}
+]]>
+		</style>
+	</defs>
+	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet">
+		<defs>
+			<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M157.15,75.857c9.662-11.325,38.114-19.07,70.053-19.07c30.959,0,58.747,7.277,69.19,18.119"/>
+		</defs>
+		<text text-anchor="middle">
+			<textPath id="top_text" data-name="top_text" data-text-max="12" class="top_text text drag-target" xlink:href="#text_curve" startOffset="50%" fill="#B82026" font-family="pro_block"  stroke="#0B162E" stroke-width="1" font-size="30px" >FREMONT</textPath>
+		</text>
+	</svg>
+	<svg id="year_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
+		<path id="color-1" class="drag-target color-1" fill="#B82026" d="M247.5,92H206c-7.1,0-12.8-5.7-12.8-12.8v0c0-7.1,5.7-12.8,12.8-12.8h41.5c7.1,0,12.8,5.7,12.8,12.8v0 C260.4,86.2,254.6,92,247.5,92z"/>
+		<text id="year_text" data-name="year_text" data-text-max="4" class="year_text text drag-target" x="228" y="87" text-anchor="middle" fill="#FFFFFF" font-family="pro_block" font-size="20.3px" stroke-width="0px" letter-spacing="1">1876</text>
+	</svg>
+	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
+		<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" x="227" y="120" text-anchor="middle" fill="#B82026" font-family="pro_block" font-size="28px" letter-spacing="2">TIGERS</text>
+	</svg>
+</svg>
+
