@@ -4,15 +4,12 @@
 			<![CDATA[
 		 @font-face {
 					font-family: 'city_block';
-							src: url('http://richardsoncap.magentostaging.com/customizer/fonts/cityb.woff') format('woff'),
-								 url('http://richardsoncap.magentostaging.com/customizer/fonts/cityb.woff2') format('woff2');
+							src: url('http://richardsonsports.com/customizer/fonts/cityb.woff') format('woff');
 					font-weight: bold;
 					}
 		@font-face {
 				    font-family: 'heritage';
-				    src: url('http://richardsoncap.magentostaging.com/customizer/fonts/BebasKai-Regular.otf') format('otf'),
-				    	url('http://richardsoncap.magentostaging.com/customizer/fonts/bebaskai-regular.woff2') format('woff2'),
-				    	url('http://richardsoncap.magentostaging.com/customizer/fonts/bebaskai-regular.woff') format('woff');
+				    src: url('http://richardsonsports.com/customizer/fonts/bebaskai-regular.woff') format('woff');
 				    font-weight: normal;
 				    font-style: normal;
 				}
