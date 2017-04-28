@@ -33,7 +33,6 @@
 	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
 		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target" x="226.5" y="91" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="66px" letter-spacing="0">FREMONT</text>
 	</svg>
-	\
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
 		<text id="bottom_text" data-name="bottom_text" data-text-max="7" class="bottom_text text drag-target" x="225" y="125" text-anchor="middle" fill="#B82026" font-family="uni_script" font-size="63.6px" letter-spacing="0">Tigers</text>
 	</svg>
