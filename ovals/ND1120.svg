@@ -19,6 +19,7 @@
 		]]>
 		</style>
 	</defs>
+
 	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet">
 		<defs>
 			<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M153.756,59c10.134-11.877,39.972-19.999,73.468-19.999 c32.469,0,61.612,7.632,72.563,19.002"/>
