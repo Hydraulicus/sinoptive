@@ -19,22 +19,42 @@
 		]]>
 		</style>
 	</defs>
-	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet">
+	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="132.5px" y="15px" viewBox="132.5 15 190 142">
 		<defs>
-			<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M153.756,59c10.134-11.877,39.972-19.999,73.468-19.999 c32.469,0,61.612,7.632,72.563,19.002"/>
+			<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M153.756,69.058c10.134-11.877,39.972-19.999,73.468-19.999 c32.469,0,61.612,7.632,72.563,19.002"/>
 		</defs>
 		<text text-anchor="middle">
 			<textPath id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target" xlink:href="#text_curve" startOffset="50%" fill="#0B162E" font-family="heritage" stroke="#0B162E" stroke-width="0px" font-size="47.2px" letter-spacing="0.3">FREMONT</textPath>
 		</text>
 	</svg>
-	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet">
+	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="132.5px" y="15px" viewBox="132.5 15 190 142">
 		<defs>
-			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M131.272,141c14.324,14.872,52.441,24.854,94.908,24.854 c43.811,0,82.838-10.624,96.092-26.158"/>
+			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M131.272,131.355c14.324,14.872,52.441,24.854,94.908,24.854 c43.811,0,82.838-10.624,96.092-26.158"/>
 		</defs>
 		<text text-anchor="middle">
 			<textPath id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" xlink:href="#bottom_text_curve" startOffset="50%" fill="#0B162E" font-family="heritage" stroke="#0B162E" stroke-width="0px" font-size="47.1px" letter-spacing="3.5">TIGERS</textPath>
 		</text>
 	</svg>
+
+
+	<!--<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet">-->
+		<!--<defs>-->
+			<!--<path id="text_curve" stroke-width="1.5px" stroke="red"  d="M153.756,69.058c10.134-11.877,39.972-19.999,73.468-19.999 c32.469,0,61.612,7.632,72.563,19.002"/>-->
+		<!--</defs>-->
+		<!--<text text-anchor="middle">-->
+			<!--<textPath id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target" xlink:href="#text_curve" startOffset="50%" fill="rgba(100,222,222,0.5)" font-family="heritage" stroke="#0B162E" stroke-width="0px" font-size="47.2px" letter-spacing="0.3">FREMONT</textPath>-->
+		<!--</text>-->
+	<!--</svg>-->
+	<!--<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet">-->
+		<!--<defs>-->
+			<!--<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M131.272,131.355c14.324,14.872,52.441,24.854,94.908,24.854 c43.811,0,82.838-10.624,96.092-26.158"/>-->
+		<!--</defs>-->
+		<!--<text text-anchor="middle">-->
+			<!--<textPath id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" xlink:href="#bottom_text_curve" startOffset="50%" fill="rgba(100,222,222,0.5)" font-family="heritage" stroke="#0B162E" stroke-width="0px" font-size="47.1px" letter-spacing="3.5">TIGERS</textPath>-->
+		<!--</text>-->
+	<!--</svg>-->
+
+
 	<svg id="letter_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
 		<path id="color-2" class="drag-target" fill="#0B162E" d="M226.8,54.6 229.6,54.7 232.4,54.7 235.2,55 238,55.2 240.8,55.5 243.4,56 246,56.4 248.5,56.9
 		251,57.5 253.5,58.1 255.8,58.9 258.1,59.7 260.3,60.5 262.5,61.4 264.5,62.3 266.5,63.3 268.4,64.3 270.3,65.5 271.9,66.6
