@@ -9,19 +9,15 @@
 
 
 	<svg id="graphic-wrapper" viewBox="0 0 215 140" x="119px" y="13px" width="215px" height="140px" >
-
 		<svg id="graphic-1" class="draggable" x="14px" y="-37px" viewBox="0 0 215 10"  xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 					<path id="color-1" class="color-1" fill="#0B162E" d="M215.1,10.3H0.5v2.4h214.6V6.4z"/>
 					<path id="color-2" class="color-2" fill="#B82026" d="M215.1,5H0.5v2.4h214.6V1.1z"/>
         </svg>
 
 		<svg id="graphic-2" class="draggable" x="14px" y="32px" viewBox="0 0 215 8" xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-
 			<path id="color-1" class="color-1" fill="#0B162E" d="M215,2.4H0.5v-2.4h214.6V0.8z"/>
 			<path id="color-2" class="color-2" fill="#B82026" d="M215,7.9H0.5v-2.4h214.6V6.1z"/>
-
         </svg>
-
 	</svg>
 
 	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet">
