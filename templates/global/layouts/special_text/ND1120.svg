@@ -19,7 +19,7 @@
 		]]>
 		</style>
 	</defs>
-	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="132.5px" y="15px" viewBox="132.5 25 190 142">
+	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="132.5px" y="15px" viewBox="132.5 25 190 142"  width="160px" height="62px">
 		<defs>
 			<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M153.756,69.058c10.134-11.877,39.972-19.999,73.468-19.999 c32.469,0,61.612,7.632,72.563,19.002"/>
 		</defs>
@@ -27,7 +27,7 @@
 			<textPath id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target" xlink:href="#text_curve" startOffset="50%" fill="#0B162E" font-family="heritage" stroke="#0B162E" stroke-width="0px" font-size="47.2px" letter-spacing="0.3">FREMONT</textPath>
 		</text>
 	</svg>
-	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="132.5px" y="15px" viewBox="132.5 5 190 142">
+	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="132.5px" y="15px" viewBox="132.5 5 190 142"  width="110px" height="52px">
 		<defs>
 			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M131.272,131.355c14.324,14.872,52.441,24.854,94.908,24.854 c43.811,0,82.838-10.624,96.092-26.158"/>
 		</defs>
