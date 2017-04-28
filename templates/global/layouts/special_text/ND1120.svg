@@ -55,7 +55,7 @@
 	<!--</svg>-->
 
 
-	<svg id="letter_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet"  viewBox="56 1 190 142" x="0px" y="0px" width="300px" height="144px">
+	<svg id="letter_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet"  viewBox="56 1 190 142" x="0px" y="0px" width="280px" height="134px">
 		<path id="color-2" class="drag-target" fill="#0B162E" d="M226.8,54.6 229.6,54.7 232.4,54.7 235.2,55 238,55.2 240.8,55.5 243.4,56 246,56.4 248.5,56.9
 		251,57.5 253.5,58.1 255.8,58.9 258.1,59.7 260.3,60.5 262.5,61.4 264.5,62.3 266.5,63.3 268.4,64.3 270.3,65.5 271.9,66.6
 		273.6,67.8 275.1,69.1 276.5,70.4 277.8,71.8 279,73.1 280.2,74.6 281.1,76.1 281.9,77.7 282.7,79.2 283.2,80.9 283.6,82.6
