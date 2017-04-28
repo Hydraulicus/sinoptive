@@ -25,21 +25,10 @@
 			<path id="color-1" class="color-1" fill="#B82026" d="M189,8h48.1v6H189V99.1z "/>
         </svg>
 
-		<svg id="graphic-2" class="draggable" x="0px" y="13px" viewBox="0 0 320 10" xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-			<path id="color-1" class="color-1" fill="#B82026" d="M319.5,8h44.8v6h-44.8V99.1z"/>
-        </svg>
-	</svg>
-
-	<svg id="graphic-wrapper" viewBox="0 0 215 140" x="0px" y="13px" width="215px" height="140px" opacity="0.25">
-		<svg id="graphic-1" class="draggable" x="0px" y="13px" viewBox="0 0 215 10"  xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-			<path id="color-1" class="color-1" fill="blue" d="M89.3,8h48.1v6H89.3V99.1z "/>
-        </svg>
-
 		<svg id="graphic-2" class="draggable" x="0px" y="13px" viewBox="0 0 215 10" xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-			<path id="color-1" class="color-1" fill="blue" d="M319.5,8h44.8v6h-44.8V99.1z"/>
+			<path id="color-1" class="color-1" fill="#B82026" d="M-13,8h44.8v6h-44.8V99.1z"/>
         </svg>
 	</svg>
-
 
 	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
 		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target" x="226.5" y="91" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="66px" letter-spacing="0">FREMONT</text>
