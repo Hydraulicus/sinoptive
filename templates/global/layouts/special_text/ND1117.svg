@@ -21,15 +21,15 @@
 	</svg>
 
 	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet">
-		<text id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target" x="227" y="41.8" text-anchor="middle" fill="#0B162E" font-family="swiss_condensed" stroke="#0B162E" stroke-width="0px" font-size="28px" letter-spacing="0.3">FREMONT</text>
+		<text id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target scalable" x="227" y="41.8" text-anchor="middle" fill="#0B162E" font-family="swiss_condensed" stroke="#0B162E" stroke-width="0px" font-size="28px" letter-spacing="0.3">FREMONT</text>
 	</svg>
 
 	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
-		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target" x="226.5" y="107.4" text-anchor="middle" fill="#0B162E" font-family="city_block" font-size="53.9px" letter-spacing="1">TIGERS</text>
+		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target scalable" x="226.5" y="107.4" text-anchor="middle" fill="#0B162E" font-family="city_block" font-size="53.9px" letter-spacing="1">TIGERS</text>
 	</svg>
 
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
-		<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" x="227" y="144.3" text-anchor="middle" fill="#0B162E" font-family="swiss_condensed" font-size="28px">FOOTBALL</text>
+		<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target scalable" x="227" y="144.3" text-anchor="middle" fill="#0B162E" font-family="swiss_condensed" font-size="28px">FOOTBALL</text>
 	</svg>
 
 </svg>
