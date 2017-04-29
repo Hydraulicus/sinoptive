@@ -20,7 +20,7 @@
 		</style>
 	</defs>
 
-	<svg id="graphic-wrapper" viewBox="0 0 215 140" x="130px" y="13px" width="215px" height="140px" >
+	<svg id="graphic-wrapper" viewBox="0 0 235 140" x="111px" y="13px" width="235px" height="140px" >
 		<svg id="graphic-1" class="draggable" x="0px" y="20px" viewBox="0 0 215 8"  xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 			<path id="color-1" class="color-1" fill="#B82026" d="M189,0h48.1v6H189z "/>
         </svg>
