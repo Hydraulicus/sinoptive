@@ -8,7 +8,7 @@
 	</style>
 
 
-	<svg id="graphic-wrapper" viewBox="0 0 215 140" x="119px" y="13px" width="215px" height="140px" >
+	<svg id="graphic-wrapper" viewBox="0 0 235 140" x="111px" y="13px" width="235px" height="140px" >
 		<svg id="graphic-1" class="draggable" x="14px" y="-37px" viewBox="0 0 215 10"  xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 			<path id="color-1" class="color-1" fill="#0B162E" d="M215.1,10.3H0.5v2.4h214.6V6.4z"/>
 			<path id="color-2" class="color-2" fill="#B82026" d="M215.1,5H0.5v2.4h214.6V1.1z"/>
