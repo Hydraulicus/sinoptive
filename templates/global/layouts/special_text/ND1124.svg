@@ -1,4 +1,4 @@
-<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text" viewBox="70 38 311 108" preserveAspectRatio="xMidYMid meet" >
+<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text" viewBox="62 20 311 108" preserveAspectRatio="xMidYMid meet" >
 	<defs>
 		<style type="text/css">
 			<![CDATA[
@@ -20,7 +20,7 @@
 		</style>
 	</defs>
 
-	<svg id="graphic-wrapper" viewBox="0 0 235 140" x="103px" y="15px" width="235px" height="140px" >
+	<svg id="graphic-wrapper" viewBox="0 0 235 140" x="104px" y="15px" width="228px" height="140px" >
 		<svg id="graphic-1" class="draggable" x="0px" y="20px" viewBox="0 0 215 8" xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 			<path id="color-1" class="color-1" fill="#B82026" d="M189,0h48.1v6H189z "/>
         </svg>
@@ -30,10 +30,10 @@
         </svg>
 	</svg>
 
-	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" width="352.25px" height="84px">
+	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" width="352.25px" height="84px" x="-10" y="30">
 		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target scalable" x="226.5" y="91" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="66px" letter-spacing="0">FREMONT</text>
 	</svg>
-	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" width="201.5px" height="90px">
+	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" width="150px" height="82px"  x="8	" y="67">
 		<text id="bottom_text" data-name="bottom_text" data-text-max="7" class="bottom_text text drag-target scalable" x="225" y="125.25" text-anchor="middle" fill="#B82026" font-family="uni_script" font-size="63.6px" letter-spacing="0">Tigers</text>
 	</svg>
 </svg>
