@@ -30,7 +30,7 @@
         </svg>
 	</svg>
 
-	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" width="352.25px" height="84px" x="-10" y="30">
+	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" width="270px" height="84px" x="5" y="30">
 		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target scalable" x="226.5" y="91" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="66px" letter-spacing="0">FREMONT</text>
 	</svg>
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" width="150px" height="82px"  x="8	" y="67">
