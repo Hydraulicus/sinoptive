@@ -35,13 +35,13 @@
 	</svg>
 
 	<!--<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" x="15" y="57.5" height="50" width="223">-->
-		<!--<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target scalable" x="111.5" y="48" text-anchor="middle" fill="#0B162E" font-family="city_block" font-size="69px" letter-spacing="1">TIGERS</text>-->
+		<!--<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target scalable" x="111.5" y="48" text-anchor="middle" fill="#fB162E" font-family="city_block" font-size="69px" letter-spacing="1">TIGERS</text>-->
 		<!--<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="blue"/>-->
 	<!--</svg>-->
 
-	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="15" y="57.5" viewBox="0 0 223 50" width="223px" height="50px">
+	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="19" y="59.5" viewBox="0 0 215 46" width="215px" height="46px">
 		<defs>
-			<path id="main_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0,48 H223"/>
+			<path id="main_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0,46 H215"/>
 		</defs>
 		<text text-anchor="middle" class="drag-target font_adjust">
 			<textPath id="main_text" data-name="main_text" data-text-max="8" class="main_text text" xlink:href="#main_text_curve" startOffset="50%" fill="#0B162E" font-family="city_block" stroke="#0B162E" stroke-width="0px" font-size="69px" letter-spacing="1">TIGERS</textPath>
@@ -50,13 +50,13 @@
 	</svg>
 
 	<!--<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet"  x="30" y="120" height="27" width="193">-->
-		<!--<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target scalable" x="97" y="24" text-anchor="middle" fill="#0B162E" font-family="swiss_condensed" font-size="28px">FOOTBALL</text>-->
+		<!--<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target scalable" x="97" y="24" text-anchor="middle" fill="#fB162E" font-family="swiss_condensed" font-size="28px">FOOTBALL</text>-->
 		<!--&lt;!&ndash;<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="gold"/>&ndash;&gt;-->
 	<!--</svg>-->
 
-	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="29.8" y="120" viewBox="0 0 193 27" width="193px" height="27px">
+	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" x="68.5" y="122.5" viewBox="0 0 118 22" width="118px" height="22px">
 		<defs>
-			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M1.1,24 H193"/>
+			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0.5,21.5 H117"/>
 		</defs>
 		<text text-anchor="middle" class="drag-target font_adjust">
 			<textPath id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text" xlink:href="#bottom_text_curve" startOffset="50%" fill="#0B162E" font-family="swiss_condensed" stroke="#0B162E" stroke-width="0px" font-size="28px"  letter-spacing="0.3">FOOTBALL</textPath>
@@ -67,6 +67,7 @@
 		<svg id="graphic-1" class="draggable" x="18.5px" y="42px" viewBox="0 0 215 9" height="9" width="215" xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 			<path id="color-1" class="color-1" fill="#0B162E" d="M215.1,10.3H0.5v2.4h214.6V6.4z"/>
 			<path id="color-2" class="color-2" fill="#B82026" d="M215.1,5H0.5v2.4h214.6V1.1z"/>
+			<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="cyan"/>
         </svg>
 
 		<svg id="graphic-2" class="draggable" x="18.5px" y="110px" viewBox="0 0 215 9" height="9" width="215" xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
