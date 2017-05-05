@@ -1,4 +1,4 @@
-<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text"  viewBox="115 15 190 128" preserveAspectRatio="xMidYMid meet" style="background-color:#fff;">
+<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text"  viewBox="115 15 190 129" preserveAspectRatio="xMidYMid meet" style="background-color:#fff;">
 	<defs>
 		<style type="text/css">
 			<![CDATA[
@@ -31,8 +31,9 @@
 
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="7px" height="80px" >
 		<defs>
-			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M117,109c14.324,14.872,52.441,24.854,94.908,24.854 c43.811,0,82.838-10.624,96.092-26.158"/>
+			<path id="bottom_text_curve" stroke-width="1.5px" stroke="cyan" fill="none" d="M147.5,125.5  c31, 12,  102,  11,  129, 0"/>
 		</defs>
+
 		<text text-anchor="middle" class="drag-target font_adjust">
 			<textPath id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text" xlink:href="#bottom_text_curve" startOffset="50%" fill="#0B162E" font-family="heritage" stroke="#0B162E" stroke-width="0px" font-size="41.1px" letter-spacing="2.9">TIGERS</textPath>
 		</text>
