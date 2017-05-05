@@ -24,10 +24,17 @@
 				]]>
 		</style>
 	</defs>
-	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" x="15" y="0" height="67" width="280">
-		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target scalable" x="140" y="53" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="66px" letter-spacing="0">FREMONT</text>
-		<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="blue"/>
+	<!--<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" x="15" y="0" height="67" width="280">-->
+		<!--<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target scalable" x="140" y="53" text-anchor="middle" fill="#FB162E" OPACITY="0.5" font-family="pro_block" font-size="66px" letter-spacing="0">FREMONT</text>-->
+		<!--<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="cyan" opacity="0.5"/>-->
+	<!--</svg>-->
+
+
+	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet"  y="53" height="67">
+		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target scalable" x="50%" y="0" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="66px" letter-spacing="0">FREMONT</text>
+		<!--<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="blue"/>-->
 	</svg>
+
 
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" x="75.5" y="33" height="73" width="160">
 		<text id="bottom_text" data-name="bottom_text" data-text-max="7" class="bottom_text text drag-target scalable" x="78" y="52" text-anchor="middle" fill="#B82026" font-family="uni_script" font-size="63.6px" letter-spacing="0">Tigers</text>
