@@ -32,6 +32,7 @@
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="31px" height="32px" >
 		<defs>
 			<!--<path id="bottom_text_curve" stroke-width="1.5px" stroke="cyan" fill="none" d="M115,99c14.324,14.872,52.441,24.854,94.908,24.854 c43.811,0,82.838-10.624,96.092-26.158"/>-->
+
 			<path id="bottom_text_curve" stroke-width="1.5px" stroke="cyan" fill="none" d="M147.5,125.5  c31, 12,  102,  11,  129, 0"/>
 		</defs>
 		<text text-anchor="middle" class="drag-target font_adjust">
