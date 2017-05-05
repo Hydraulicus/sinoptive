@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="layout" data-colorable="special_text" viewBox="0 0 311 108" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="layout" data-colorable="special_text" viewBox="0 0 311 107" preserveAspectRatio="xMidYMid meet">
 	<defs>
 		<style type="text/css">
 			<![CDATA[
@@ -30,19 +30,19 @@
 		<!--<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="blue"/>-->
 	</svg>
 
-	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" x="75.5" y="33" height="73" width="160">
-		<text id="bottom_text" data-name="bottom_text" data-text-max="7" class="bottom_text text drag-target scalable" x="78" y="52" text-anchor="middle" fill="#082026" opacity="0.5" font-family="uni_script" font-size="63.6px" letter-spacing="0">Tigers</text>
-		<!--<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="red"/>-->
-	</svg>
+	<!--<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" x="75.5" y="33" height="73" width="160">-->
+		<!--<text id="bottom_text" data-name="bottom_text" data-text-max="7" class="bottom_text text drag-target scalable" x="78" y="52" text-anchor="middle" fill="#082026" opacity="0.5" font-family="uni_script" font-size="63.6px" letter-spacing="0">Tigers</text>-->
+		<!--&lt;!&ndash;<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="red"/>&ndash;&gt;-->
+	<!--</svg>-->
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet"  y="86" height="73" >
-		<text id="bottom_text" data-name="bottom_text" data-text-max="7" class="bottom_text text drag-target scalable" x="50%" y="0" text-anchor="middle" fill="#B82026" font-family="uni_script" font-size="63.6px" letter-spacing="0">000000</text>
+		<text id="bottom_text" data-name="bottom_text" data-text-max="7" class="bottom_text text drag-target scalable" x="50%" y="0" text-anchor="middle" fill="#B82026" font-family="uni_script" font-size="63.6px" letter-spacing="0">Tigers</text>
 		<!--<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="red"/>-->
 	</svg>
 	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="graphic-1" class="draggable" x="15" y="60" viewBox="0 0 100 8" xml:space="preserve" data-colorable="mascot" version="1.1" width="55" height="15">
 		<path id="color-1" class="color-1" fill-rule="evenodd" clip-rule="evenodd" fill="#B82026" d="M0,0v8H100v-8z"/>
 		<!--<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="orange"/>-->
 	</svg>
-	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="graphic-2" class="draggable" x="240" y="60" viewBox="0 0 100 8" xml:space="preserve" data-colorable="mascot" version="1.1" width="55" height="15">
+	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="graphic-2" class="draggable" x="241" y="60" viewBox="0 0 100 8" xml:space="preserve" data-colorable="mascot" version="1.1" width="55" height="15">
 		<path id="color-2" class="color-2" fill-rule="evenodd" clip-rule="evenodd" fill="#B82026" d="M0,0v8H100v-8z"/>
 		<!--<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="orange"/>-->
 	</svg>
