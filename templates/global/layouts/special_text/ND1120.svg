@@ -33,7 +33,6 @@
 			<path id="bottom_text_curve" stroke-width="1.5px" stroke="cyan" fill="none" d="M147.5,125.5  c31, 12,  102,  11,  129, 0" />
 		</defs>
 		<text text-anchor="middle" class="drag-target font_adjust">
-			<!--TIGERS-->
 			<textPath id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text" xlink:href="#bottom_text_curve" startOffset="50%" fill="#0B162E" font-family="heritage" stroke="#0B162E" stroke-width="0px" font-size="41.1px" letter-spacing="2.9">TIGERS</textPath>
 		</text>
 	</svg>
