@@ -37,8 +37,7 @@
 
             <svg  id="graphic-2" class="draggable" x="0" y="-56" viewBox="0 0 270 40" preserveAspectRatio="xMidYMid meet" xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
                 <rect x="0" y="0" width="100%" height="100%" fill="none" stroke="green"/>
-			    <!--<path id="color-2" class="drag-target color-2" fill="#B82026" d="M240.2,9c6.8,0.9,12.7,6.2,12.7,13.4v14.1l-7,1V22.4c0-3.2-2.9-5.9-6.7-6.5c-36.1-5.1-70.2-7.6-104.4-7.6 	s-68.3,2.5-104.5,7.6c-3.9,0.6-6.7,3.3-6.7,6.5v15.1l-7-1V22.4c0-7.2,5.8-12.5,12.6-13.4c35-5,70.1-7.7,105.5-7.7S205.2,4,240.2,9	L333.2,9z"/>-->
-                <path id="color-2" class="drag-target color-2" fill="#0B162E" d="M252.9,2v14.1c0,7.2-5.8,12.4-12.6,13.4c-35,4.9-70.1,7.7-105.5,7.7s-70.4-2.7-105.3-7.7 	c-6.8-0.9-12.8-6.2-12.8-13.4v-14.1l7-1v15.1c0,3.2,2.9,5.9,6.7,6.5c36.1,5.1,70.2,7.5,104.4,7.5s68.3-2.4,104.5-7.6 c3.9-0.5,6.7-3.2,6.7-6.4v-15.1L252.9,2z"/>
+			    <path id="color-2" class="drag-target color-2" fill="#B82026" d="M240.2,9c6.8,0.9,12.7,6.2,12.7,13.4v14.1l-7,1V22.4c0-3.2-2.9-5.9-6.7-6.5c-36.1-5.1-70.2-7.6-104.4-7.6 	s-68.3,2.5-104.5,7.6c-3.9,0.6-6.7,3.3-6.7,6.5v15.1l-7-1V22.4c0-7.2,5.8-12.5,12.6-13.4c35-5,70.1-7.7,105.5-7.7S205.2,4,240.2,9	L333.2,9z"/>
             </svg>
         <svg  id="graphic-1" class="draggable" x="0" y="56" viewBox="0 0 270 40" preserveAspectRatio="xMidYMid meet" xml:space="preserve" data-colorable="mascot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
  			    <path id="color-1" class="drag-target color-1" fill="#0B162E" d="M252.9,2v14.1c0,7.2-5.8,12.4-12.6,13.4c-35,4.9-70.1,7.7-105.5,7.7s-70.4-2.7-105.3-7.7 	c-6.8-0.9-12.8-6.2-12.8-13.4v-14.1l7-1v15.1c0,3.2,2.9,5.9,6.7,6.5c36.1,5.1,70.2,7.5,104.4,7.5s68.3-2.4,104.5-7.6 c3.9-0.5,6.7-3.2,6.7-6.4v-15.1L252.9,2z"/>
