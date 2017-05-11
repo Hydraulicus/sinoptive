@@ -23,14 +23,14 @@
                   letter-spacing="2">MARYVILLE</text>
         </svg>
 
-        <svg id="top_text-wrapper" class="draggable" y="98.2" height="45px" preserveAspectRatio="xMidYMin meet">
-            <text id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target scalable" x="50%"
+        <svg id="main_text-wrapper" class="draggable" y="98.2" height="45px" preserveAspectRatio="xMidYMin meet">
+            <text id="main_text" data-name="main_text" data-text-max="10" class="main_text text drag-target scalable" x="50%"
                   y="0" text-anchor="middle" fill="#B82026" font-family="heritage" font-size="65.6px" data-font-max="65.6"
                   letter-spacing="5.2">BULLDOGS</text>
         </svg>
 
-        <svg id="main_text-wrapper" class="draggable" y="130" height="45px" preserveAspectRatio="xMidYMin meet">
-            <text id="main_text" data-name="main_text" data-text-max="10" class="main_text text drag-target scalable"
+        <svg id="bottom_text-wrapper" class="draggable" y="130" height="45px" preserveAspectRatio="xMidYMin meet">
+            <text id="bottom_text" data-name="bottom_text" data-text-max="10" class="bottom_text text drag-target scalable"
                   x="50%" y="0" text-anchor="middle" fill="#0B162E" font-family="heritage" font-size="28.12px" data-font-max="28.12"
                   letter-spacing="2.2">SINCE 1954</text>
         </svg>
