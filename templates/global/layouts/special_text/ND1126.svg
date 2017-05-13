@@ -38,7 +38,7 @@
                   font-size="107.5"  data-font-max="107.6" fill="#040404" letter-spacing="5">CHS</text>
         </svg>
 
-        <svg id="bottom_text-wrapper" class="draggable" y="127.2" height="45px" preserveAspectRatio="xMidYMin meet">
+        <svg id="bottom_text-wrapper" class="draggable" y="127.2" height="40px" preserveAspectRatio="xMidYMin meet">
             <text id="bottom_text" data-name="bottom_text" data-text-max="10" class="bottom_text text drag-target scalable"
                   x="50%" text-anchor="middle" stroke-width="0" stroke="#040404" fill="#040404"
                   font-family="plain" font-size="20.2px" data-font-max="20.2" letter-spacing="3.1">BULLDOGS</text>
