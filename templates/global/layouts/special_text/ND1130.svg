@@ -1,0 +1,45 @@
+<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     data-colorable="special_text"  preserveAspectRatio="xMidYMid meet">
+    <svg viewBox="0 0 330 168" y="3.5%" height="92%">
+        <rect x="0" y="0" width="100%" height="100%" fill="none" stroke="green" />
+        <defs>
+            <style type="text/css">
+                <![CDATA[
+            #layout svg {
+					overflow: visible;
+				}
+				 @font-face {
+					font-family: 'city_block';
+							src: url('http://richardsonsports.com/customizer/fonts/cityb.woff') format('woff');
+					font-weight: bold;
+					}
+			]]>
+            </style>
+        </defs>
+
+        <svg class="draggable" viewBox="0 0 310 75" y="0" height="75"><path class="drag-target color-1" fill="#B82026" d="M99.2 60.3l-3.4 10.2c2.6-.3 4.8-.6 6.6-.8l.6 4.2v.3l.2.9v.1l.8 5.6c-2.9.3-5.4.6-7.3.8l-.7.1 3.7 8.2c-4.4.6-8.6 1.1-12.7 1.8L81.3 79l-.8-1.8.7-1.9 4.4-13.1c4.5-.7 9.1-1.4 13.6-1.9zm130.2 12.1c32.2 5.5 60.7 14.4 83.5 25.8-25.1-7-53.6-12.4-84.4-15.7l-4 9.1c-4.2-.7-8.5-1.2-12.7-1.8l6-13.3-5.6-16.3c4.7.6 9.3 1.2 13.8 1.9l3.4 10.3zm-106.8-4.5l.3-.1c2.3-.1 4.9-.2 7.8-.4l.3 5.6v5.7c-2.2.1-4.6.2-7.3.4l-1.2.1 2 8.4c-4.2.2-8.4.6-12.5 1l-3-12.7-.2-.9.1-1 2.6-15c4.2-.4 8.5-.8 12.7-1l-1.6 9.9zm26.9-1.2l.4-.1h6.4v11.2c-2 0-4 0-6.2.1h-.7v8.6c-4.2.1-8.4.2-12.5.3V57.2c4.1-.2 8.3-.3 12.5-.3v9.8zm25.2.3l2 .1c2.2 0 4.4.1 6.4.2l1 5.7-.2 2.5-.7 3.1c-2.6-.1-4.9-.2-7-.3l-1.5-.1v8.7l-12.6-.3V56.9c4.2 0 8.4.1 12.6.3V67zm27 1.6c1.2.1 2.3.2 3.4.3 1.3.1 2.9.3 4.7.6l2 5.8-.2 1.6-1.7 3.9c-1.8-.2-3.8-.4-6.2-.7l-2.1-.2-1.9 8.6c-4.1-.3-8.4-.7-12.5-1l2.9-13-3-16.7c4.4.2 8.6.6 12.9 1l1.7 9.8zM75.6 83.4c-28 3.4-53.9 8.4-77.1 14.9C19.7 87.6 46 79.2 75.6 73.6l-.4 2.5-.6 3.2.8 3.1.2 1z"/></svg>
+
+        <svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="5px" height="120px" >
+            <defs>
+                <path id="text_curve" stroke-width="1.5px" stroke="red" fill="none"
+                      d="M-8,85c24.287-28.466,95.802-47.933,176.085-47.933 c77.819,0,147.667,18.291,173.915,45.544"/>
+            </defs>
+            <text text-anchor="middle"  class="drag-target font_adjust">
+                <textPath id="top_text" data-name="top_text" data-text-max="12" data-font-max="55" class="top_text text"
+                          xlink:href="#text_curve" fill="#040404" font-family="city_block" stroke="#040404"
+                          stroke-width="0px" font-size="55px" text-anchor="middle" startOffset="50%" letter-spacing="1"
+                          stroke-miterlimit="10">BLUE RIDGE
+                </textPath>
+            </text>
+        </svg>
+
+
+        <svg id="bottom_text-wrapper" class="draggable" y="144" height="50" preserveAspectRatio="xMidYMin meet">
+            <text id="bottom_text" data-name="bottom_text" data-text-max="12" class="bottom_text text drag-target scalable"
+                  x="50%" fill="#040404" font-family="city_block" stroke="#040404" stroke-width="0px"
+                  font-size="49.13px"  data-font-max="49.13" text-anchor="middle" letter-spacing="0.5">FOOTBALL
+            </text>
+        </svg>
+
+    </svg>
+</svg>
