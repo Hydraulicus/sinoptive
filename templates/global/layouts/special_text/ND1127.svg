@@ -23,10 +23,8 @@
 			<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M17.5,130c20.536-24.068,81.004-40.529,148.885-40.529c65.798,0,124.857,15.466,147.051,38.508"/>
 		</defs>
 		<text text-anchor="middle" class="drag-target font_adjust">
-			<textPath id="main_text" data-name="main_text" data-text-max="12" data-font-max="73.7" class="main_text text drag-target" xlink:href="#text_curve" fill="#B82026" font-family="city_block" stroke="#0B162E" stroke-width="3px" font-size="73.7px" text-anchor="middle" startOffset="50%" letter-spacing="1" stroke-miterlimit="10" >TTTTTT</textPath>
+			<textPath id="main_text" data-name="main_text" data-text-max="12" data-font-max="73.7" class="main_text text drag-target" xlink:href="#text_curve" fill="#B82026" font-family="city_block" stroke="#0B162E" stroke-width="3px" font-size="73.7px" text-anchor="middle" startOffset="50%" letter-spacing="1" stroke-miterlimit="10" >TIGERS</textPath>
 		</text>
-		<!--TIGERS-->
-
 	</svg>
 </svg>
 </svg>
