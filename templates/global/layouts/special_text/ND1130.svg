@@ -1,6 +1,6 @@
 <svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      data-colorable="special_text"  preserveAspectRatio="xMidYMid meet">
-    <svg viewBox="0 0 330 155" y="3.5%" height="92%">
+    <svg viewBox="0 0 330 155" y="3.5%">
         <defs>
             <style type="text/css">
                 <![CDATA[
@@ -22,10 +22,8 @@
 
         <svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="5px" height="120px" >
             <defs>
+                <path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M10,68c70-42,250-42,310,0"/>
             </defs>
-                <!--<path id="text_curve_orig" stroke-width="1.5px" stroke="blue" fill="none" d="M-8,85c24.287-28.466,95.802-47.933,176.085-47.933 c77.819,0,147.667,18.291,173.915,45.544"/>-->
-                <!--<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M20,62c24.287-28.466,95.802-47.933,134-47.933 c77.819,0,107,18.291,129,45.544"/>-->
-                <path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M9,69c68-42,250-42,312,0"/>
             <text text-anchor="middle"  class="drag-target font_adjust">
                 <textPath id="top_text" data-name="top_text" data-text-max="12" data-font-max="55" class="top_text text"
                           xlink:href="#text_curve" fill="#040404" font-family="city_block" stroke="#040404"
