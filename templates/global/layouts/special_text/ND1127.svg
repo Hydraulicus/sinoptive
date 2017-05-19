@@ -16,8 +16,8 @@
 	</defs>
 	<svg id="letter_text-wrapper" class="draggable" y="132" height="195px" preserveAspectRatio="xMidYMin meet" >
 		<defs>
-			<path id="letter_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M55.05,0 h200"/>
 		</defs>
+			<path id="letter_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M55.05,0 h200"/>
 		<text text-anchor="middle" class="drag-target font_adjust">
 			<textPath id="letter_text" data-name="letter_text" data-text-max="2" class="letter_text text drag-target" xlink:href="#letter_text_curve" stroke-miterlimit="10" fill="none" font-family="city_block" stroke="#BDBDC0" stroke-width="7px" font-size="191.8px" data-font-max="191.8" startOffset="50%" text-anchor="middle" letter-spacing="2">W</textPath>
 		</text>
