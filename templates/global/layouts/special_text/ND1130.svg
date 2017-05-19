@@ -23,7 +23,7 @@
         <svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="5px" height="120px" >
             <defs>
             </defs>
-            <path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M10,68c70-42,250-42,310,0"/>
+            <path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M10,68c90-42,220-42,310,0"/>
             <text text-anchor="middle"  class="drag-target font_adjust">
                 <textPath id="top_text" data-name="top_text" data-text-max="12" data-font-max="55" class="top_text text"
                           xlink:href="#text_curve" fill="#040404" font-family="city_block" stroke="#040404"
