@@ -33,7 +33,7 @@
                   font-size="73.5px" data-font-max="73.5" text-anchor="middle" letter-spacing="2">HUSKIES</text>
         </svg>
 
-        <svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" y="163" height="30">
+        <svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" y="163" height="26">
             <text id="bottom_text" data-name="bottom_text" data-text-max="12" class="bottom_text text drag-target scalable"
                   x="50%" fill="#F5831E" font-family="square" stroke="#F5831E" stroke-width="0px" font-size="26.34px"
                   data-font-max="26.4"
