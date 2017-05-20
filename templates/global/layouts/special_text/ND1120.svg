@@ -34,7 +34,7 @@
 				<textPath id="top_text" data-name="top_text" data-font-max="44.5" class="top_text text" xlink:href="#text_curve" startOffset="50%" fill="#0B162E" font-family="heritage" stroke="#0B162E" stroke-width="0px" font-size="44.5px" letter-spacing="0.3">FREMONT</textPath>
 			</text>
 		</svg>
-		<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="25" height="17">
+		<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="21" height="17">
 			<defs>
 				<path id="bottom_text_curve" stroke-width="1.5px" stroke="cyan" fill="none" d="M45.6,105.5  c31, 12,  102,  11,  129, 0" />
 			</defs>
