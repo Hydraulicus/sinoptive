@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="layout" data-colorable="special_text" >
-	<svg viewBox="0 0 221 144" y="3.5%">
+	<svg viewBox="0 0 221 145" y="3.5%">
 		<defs>
 			<style type="text/css">
 				<![CDATA[
@@ -34,7 +34,7 @@
 				<textPath id="top_text" data-name="top_text" data-font-max="44.5" class="top_text text" xlink:href="#text_curve" startOffset="50%" fill="#0B162E" font-family="heritage" stroke="#0B162E" stroke-width="0px" font-size="44.5px" letter-spacing="0.3">FREMONT</textPath>
 			</text>
 		</svg>
-		<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="21" height="13">
+		<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="22" height="13">
 			<defs>
 				<path id="bottom_text_curve" stroke-width="1.5px" stroke="cyan" fill="none" d="M45.6,105.5  c31, 12,  102,  11,  129, 0" />
 			</defs>
