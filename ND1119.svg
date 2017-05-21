@@ -3,14 +3,13 @@
     <defs>
         <style type="text/css">
             <![CDATA[
-				@font-face {
-				    font-family: 'heritage';
-				    src: url('http://richardsoncap.magentostaging.com/customizer/fonts/BebasKai-Regular.otf') format('otf'),
-				    	url('http://richardsoncap.magentostaging.com/customizer/fonts/bebaskai-regular.woff2') format('woff2'),
-				    	url('http://richardsoncap.magentostaging.com/customizer/fonts/bebaskai-regular.woff') format('woff');
-				    font-weight: normal;
-				    font-style: normal;
-				}
+								@font-face {
+	font-family: 'heritage';
+	src: url('http://richardsonsports.com/customizer/fonts/bebaskai-regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+	
 				#layout svg {
 					overflow: visible;
 				}
