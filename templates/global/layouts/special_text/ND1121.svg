@@ -20,7 +20,7 @@
             <path id="text_curve" fill="none" stroke="#0B162E" stroke-width="1" d="M48,41c9.37-10.982,36.961-18.493,67.934-18.493c30.023,0,56.971,7.057,67.097,17.571"/>
         </defs>
         <text text-anchor="middle" class="drag-target font_adjust">
-            <textPath id="top_text" data-text-max="7" data-name="top_text" class="top_text text"
+            <textPath id="top_text" data-text-max="7" data-name="top_text" class="top_text text drag-target"
                       xlink:href="#text_curve" startOffset="50%" fill="#0B162E" font-family="heritage" font-size="30px" data-font-max="30"
                       letter-spacing="1" text-anchor="middle">BUFFALO</textPath>
         </text>

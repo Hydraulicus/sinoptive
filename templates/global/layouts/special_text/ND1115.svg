@@ -1,0 +1,44 @@
+<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text"  preserveAspectRatio="xMidYMid meet" style="background-color:#fff;">
+	<!--viewBox="145 32 163 90"-->
+	<svg viewBox="0 0 165 90" y="3.5%">
+		<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="green" />
+	<defs>
+		<style type="text/css">
+			<![CDATA[
+				@font-face {
+					font-family: 'pro_block';
+					src: url('http://richardsonsports.com/customizer/fonts/pro_block.woff') format('woff');
+					font-weight: regular;
+					}
+				#layout svg {
+					overflow: visible;
+				}
+]]>
+		</style>
+	</defs>
+	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="15" height="34px">
+		<defs>
+			<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M14,30c9.662-11.325,38.114-19.07,70.053-19.07c30.959,0,58.747,7.277,69.19,18.119"/>
+		</defs>
+		<text text-anchor="middle" class="drag-target font_adjust">
+			<textPath id="top_text" data-name="top_text" data-text-max="8" class="top_text text drag-target" xlink:href="#text_curve" startOffset="50%" stroke-width="0px" fill="#B82026" text-anchor="middle" font-family="pro_block" font-size="31.3px" data-font-max="31.3" letter-spacing="-0.8">FREMONT</textPath>
+		</text>
+	</svg>
+	<svg id="year_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" >
+		<path class="drag-target color-1" fill="#B82026"
+			  d="M103.5 63H62c-7.1 0-12.8-5.7-12.8-12.8 0-7.1 5.7-12.8 12.8-12.8h41.5c7.1 0 12.8 5.7 12.8 12.8.1 7-5.7 12.8-12.8 12.8z"/>
+		<text data-name="year_text" data-text-max="4" class="year_text text drag-target" x="83" y="58"
+			  text-anchor="middle" fill="#FFF" font-family="pro_block" font-size="20.3" stroke-width="0" data-font-max="20.3"
+			  letter-spacing="1">1876</text>
+	</svg>
+	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
+		<defs>
+			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0, 90 H165"/>
+		</defs>
+		<text text-anchor="middle" class="drag-target font_adjust">
+			<textPath id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" xlink:href="#bottom_text_curve" startOffset="50%" stroke-width="0px" fill="#0B162E" text-anchor="middle" font-family="pro_block" font-size="28px" data-font-max="28" letter-spacing="2">TIGERS</textPath>
+		</text>
+	</svg>
+</svg>
+</svg>
+
