@@ -1,5 +1,5 @@
 <svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text"  preserveAspectRatio="xMidYMid meet" style="background-color:#fff;">
-	<svg viewBox="0 0 165 95" y="3.5%">
+	<svg viewBox="0 0 165 98" y="3.5%">
 	<defs>
 		<style type="text/css">
 			<![CDATA[
@@ -30,7 +30,7 @@
 	</svg>
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
 		<defs>
-			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0, 90 H165"/>
+			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0, 95 H165"/>
 		</defs>
 		<text text-anchor="middle" class="drag-target font_adjust">
 			<textPath id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" xlink:href="#bottom_text_curve" startOffset="50%" stroke-width="0px" fill="#0B162E" text-anchor="middle" font-family="pro_block" font-size="28px" data-font-max="28" letter-spacing="2">TIGERS</textPath>
