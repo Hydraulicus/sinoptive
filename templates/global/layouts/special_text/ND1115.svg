@@ -23,8 +23,8 @@
 		</text>
 	</svg>
 	<svg id="year_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" >
-		<path class="drag-target color-1" fill="#B82026" d="M103.5 63H62c-7.1 0-12.8-5.7-12.8-12.8 0-7.1 5.7-12.8 12.8-12.8h41.5c7.1 0 12.8 5.7 12.8 12.8.1 7-5.7 12.8-12.8 12.8z"/>
-		<text data-name="year_text" data-text-max="4" class="year_text text drag-target" x="83" y="58"
+		<path class="drag-target color-1" fill="#B82026" d="M103.5 60H62c-7.1 0-12.8-5.7-12.8-12.8 0-7.1 5.7-12.8 12.8-12.8h41.5c7.1 0 12.8 5.7 12.8 12.8.1 7-5.7 12.8-12.8 12.8z"/>
+		<text data-name="year_text" data-text-max="4" class="year_text text drag-target" x="83" y="55"
 			  text-anchor="middle" fill="#FFF" font-family="pro_block" font-size="20.3" stroke-width="0" data-font-max="20.3"
 			  letter-spacing="1">1876</text>
 	</svg>
