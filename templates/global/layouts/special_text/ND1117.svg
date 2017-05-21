@@ -19,15 +19,15 @@
 					]]>
 	</style>
 	<svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" height="22" y="23">
-		<text id="top_text" data-name="top_text" data-text-max="8" class="top_text text drag-target scalable" text-anchor="middle" sfill="#0B162E" font-family="swiss_condensed" stroke="#0B162E" stroke-width="0px" font-size="22" letter-spacing="0.3" x="50%">FREMONT</text>
+		<text id="top_text" data-name="top_text" data-text-max="8" class="top_text text drag-target scalable" text-anchor="middle" sfill="#0B162E" font-family="swiss_condensed" stroke="#0B162E" stroke-width="0px" font-size="22" data-font-max="22" letter-spacing="0.3" x="50%">FREMONT</text>
 		<!--		<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="green"/>-->
 	</svg>
-	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMid meet" height="70" y="86.5">
-		<text id="main_text" data-name="main_text" data-text-max="8" class="main_text text drag-target scalable" text-anchor="middle" fill="#0B162E" font-family="city_block" stroke="#0B162E" stroke-width="0px" font-size="70" letter-spacing="1" x="50%" y="0">TIGERS</text>
+	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" height="70" y="86.5">
+		<text id="main_text" data-name="main_text" data-text-max="8" class="main_text text drag-target scalable" text-anchor="middle" fill="#0B162E" font-family="city_block" stroke="#0B162E" stroke-width="0px" font-size="70" data-font-max="70" letter-spacing="1" x="50%" y="0">TIGERS</text>
 				<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="blue"/>
 	</svg>
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" height="22" y="120">
-		<text id="bottom_text" x="50%" y="0" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target scalable" text-anchor="middle" fill="#0B162E" font-family="swiss_condensed" stroke="#0B162E" stroke-width="0px" font-size="22" letter-spacing="0.3">FOOTBALL</text>
+		<text id="bottom_text" x="50%" y="0" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target scalable" text-anchor="middle" fill="#0B162E" font-family="swiss_condensed" stroke="#0B162E" stroke-width="0px" font-size="22" data-font-max="22" letter-spacing="0.3">FOOTBALL</text>
 		<!--		<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="gold" class=""/>-->
 	</svg>
 	<svg id="graphic-1" class="draggable" x="11" y="28" viewBox="0 0 215 8" height="8" width="215" xml:space="preserve" data-colorable="mascot" version="1.1">
