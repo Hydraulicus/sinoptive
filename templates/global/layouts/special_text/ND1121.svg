@@ -15,7 +15,7 @@
 		]]>
         </style>
     </defs>
-    <svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet" y="0px" height="34px">
+    <svg id="top_text-wrapper" class="draggable" preserveAspectRatio="xMidYMid meet" y="0px" height="34px">
         <defs>
             <path id="text_curve" fill="none" stroke="#0B162E" stroke-width="1" d="M48,41c9.37-10.982,36.961-18.493,67.934-18.493c30.023,0,56.971,7.057,67.097,17.571"/>
         </defs>
@@ -26,17 +26,17 @@
         </text>
     </svg>
 
-    <svg id="year_text-wrapper" class="draggable" y="48.7" preserveAspectRatio="xMidYMin meet" height="15px">
+    <svg id="year_text-wrapper" class="draggable" y="48.7" preserveAspectRatio="xMidYMin meet" height="20px">
         <text id="year_text" data-name="year_text" data-text-max="4" class="year_text text drag-target scalable" x="50%"
               text-anchor="middle" fill="#0B162E" font-family="heritage" font-size="22.7px" data-font-max="22.7" letter-spacing="2">1894</text>
     </svg>
 
-    <svg id="main_text-wrapper" class="draggable" y="22.1"  height="85px" preserveAspectRatio="xMidYMin meet">
+    <svg id="main_text-wrapper" class="draggable" y="22.1"  height="85px" preserveAspectRatio="xMidYMax meet">
         <text id="main_text" data-name="main_text" data-text-max="10" class="main_text text drag-target scalable" x="50%"
               y="75" text-anchor="middle" fill="#0B162E" font-family="heritage" font-size="56px" data-font-max="56" letter-spacing="2">MAVERICKS</text>
     </svg>
 
-    <svg id="bottom_text-wrapper" class="draggable" y="91.1" height="15px"
+    <svg id="bottom_text-wrapper" class="draggable" y="91.1" height="20px"
          preserveAspectRatio="xMidYMin meet">
         <text id="bottom_text" data-name="bottom_text" data-text-max="10" class="bottom_text text drag-target scalable" x="50%"
               y="32" text-anchor="middle" fill="#0B162E" font-family="heritage" font-size="23.56px" data-font-max="23.6" letter-spacing="2">GO.FIGHT.WIN</text>
