@@ -23,18 +23,48 @@
 		</text>
 	</svg>
 	<svg id="year_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" >
-		<path class="drag-target color-1" fill="#B82026" d="M103.5 60H62c-7.1 0-12.8-5.7-12.8-12.8 0-7.1 5.7-12.8 12.8-12.8h41.5c7.1 0 12.8 5.7 12.8 12.8.1 7-5.7 12.8-12.8 12.8z"/>
+		<path id="oval" class="drag-target color-1" fill="#B82026" d="M103.5 60H62c-7.1 0-12.8-5.7-12.8-12.8 0-7.1 5.7-12.8 12.8-12.8h41.5c7.1 0 12.8 5.7 12.8 12.8.1 7-5.7 12.8-12.8 12.8z"/>
 		<text id="year_text" data-name="year_text" data-text-max="4" class="year_text text drag-target" x="83" y="55"
 			  text-anchor="middle" fill="#FFF" font-family="pro_block" font-size="20.3" stroke-width="0" data-font-max="20.3"  letter-spacing="1">1876</text>
 	</svg>
-	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
-		<defs>
-			<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0, 95 H165"/>
-		</defs>
-		<text text-anchor="middle" class="drag-target font_adjust">
-			<textPath id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" xlink:href="#bottom_text_curve" startOffset="50%" stroke-width="0px" fill="#0B162E" text-anchor="middle" font-family="pro_block" font-size="28px" data-font-max="28" letter-spacing="2">TIGERS</textPath>
-		</text>
-	</svg>
+		<svg id="bottom_text-wrapper" class="draggable" y="91.1" height="26px" preserveAspectRatio="xMidYMin meet">
+			<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" x="50%" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="28px" data-font-max="28" letter-spacing="2">TIGERS</text>
+		</svg>
+	<!--<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">-->
+		<!--<defs>-->
+			<!--<path id="bottom_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0, 95 H165"/>-->
+		<!--</defs>-->
+		<!--<text text-anchor="middle" class="drag-target font_adjust">-->
+			<!--<textPath id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" xlink:href="#bottom_text_curve" startOffset="50%" stroke-width="0px" fill="#0B162E" text-anchor="middle" font-family="pro_block" font-size="28px" data-font-max="28" letter-spacing="2">TIGERS</textPath>-->
+		<!--</text>-->
+	<!--</svg>-->
 </svg>
+
+	<script type="text/javascript"><![CDATA[
+	var bckgrnd = document.getElementById("oval");
+	var year_text = document.getElementById("year_text");
+	var config = { childList: true, subtree:true, characterData:true, attributes:false };
+	var observer_year_text = new MutationObserver(function(mutations) { dinamicBackgnd(year_text, bckgrnd); });
+	observer_year_text.observe(year_text, config);
+	function dinamicBackgnd(element, bckgrnd) {
+		var text2box = element.getBBox();
+		var roundaspect = 1.1,
+			padding = 0,
+			margin = 1,
+			fontH = text2box.height,
+			txtW = text2box.width + margin,
+			arcH = fontH / roundaspect,
+			arcW = fontH*1.275,
+			CX = text2box.x - margin,
+			CY = text2box.y+fontH + margin,
+			newD =  `M ${CX} ${CY} ` +
+					`c-${arcH},0 -${arcH},-${arcW} 0,-${arcW} ` +
+					`h${txtW}` +
+					`c${arcH},0 ${arcH},${arcW} 0,${arcW} ` +
+					`z  `;
+		bckgrnd.setAttribute("d",newD);
+		bckgrnd.setAttribute("stroke-width",padding+"px");
+	}
+		]]></script>
 </svg>
 
