@@ -15,16 +15,16 @@
 		</defs>
 
 		<text text-anchor="middle">
-	    	<textPath id="top_text" data-name="top_text" data-text-max="12" class="top_text text drag-target" xlink:href="#text_curve" startOffset="50%" fill="#0B162E" font-family="plain" font-size="17.8px">LAKEWOOD</textPath>
+	    	<textPath id="top_text" data-name="top_text" data-text-max="12" class="top_text text drag-target" xlink:href="#text_curve" startOffset="50%" fill="#0B162E" font-family="plain" font-size="17.8px" data-font-max="17.8">LAKEWOOD</textPath>
 		</text>
 	</svg>
 
 	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
-		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target" x="221.5" y="104" text-anchor="middle" fill="#0B162E" font-family="city_block" font-size="68.4px" letter-spacing="2">TIGERS</text>
+		<text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target" x="221.5" y="104" text-anchor="middle" fill="#0B162E" font-family="city_block" font-size="68.4px" data-font-max="68.4" letter-spacing="2">TIGERS</text>
 	</svg>
 
 	<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">
 		<path id="color-1" class="drag-target color-1" fill="#B82026" d="M279.344,135.647H170.2c-5.723,0-10.362-4.639-10.362-10.362v-2.453 c0-5.723,4.639-10.362,10.362-10.362h109.144c5.723,0,10.362,4.639,10.362,10.362v2.453 C289.706,131.008,285.067,135.647,279.344,135.647z"/>
-		<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" x="225" y="131.1" text-anchor="middle" fill="#FFFFFF" font-family="plain" font-size="15.5px" letter-spacing="0.5">FOOTBALL</text>
+		<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" x="225" y="131.1" text-anchor="middle" fill="#FFFFFF" font-family="plain" font-size="15.5px" data-font-max="15.5" letter-spacing="0.5">FOOTBALL</text>
 	</svg>
 </svg>
