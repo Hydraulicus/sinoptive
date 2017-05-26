@@ -23,19 +23,19 @@
 			<path id="color-1" class="drag-target color-1" fill="#0B162E" d="M170,10.2h-55.5v-6.1h55.5z"/>
         </svg>
 
-        <svg id="top_text-wrapper" class="draggable" y="38" height="51px" preserveAspectRatio="xMidYMin meet">
+        <svg id="top_text-wrapper" class="draggable" y="38" height="42px" preserveAspectRatio="xMidYMin meet">
             <text id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target" x="50%"
                   text-anchor="middle" fill="#B82026" font-family="heritage" font-size="56.06px" data-font-max="56.06"
                   letter-spacing="0.6">FREMONT</text>
         </svg>
 
-        <svg id="year_text-wrapper" class="draggable" y="61" preserveAspectRatio="xMidYMin meet" height="21px">
+        <svg id="year_text-wrapper" class="draggable" y="61" preserveAspectRatio="xMidYMin meet" height="20px">
             <text id="year_text" data-name="year_text" data-text-max="4" class="year_text text drag-target" x="50%"
                   text-anchor="middle" fill="#0B162E" font-family="heritage" font-size="22.3px" data-font-max="22.3"
                   letter-spacing="2">1894</text>
         </svg>
 
-        <svg id="bottom_text-wrapper" class="draggable" y="115" height="50px" preserveAspectRatio="xMidYMin meet">
+        <svg id="bottom_text-wrapper" class="draggable" y="115" height="45px" preserveAspectRatio="xMidYMin meet">
             <text id="bottom_text" data-name="bottom_text" data-text-max="10" class="bottom_text text drag-target"
                   x="50%" text-anchor="middle" fill="#B82026" font-family="heritage"
             font-size="66.14px" data-font-max="66.14" letter-spacing="5">TIGERS</text>
