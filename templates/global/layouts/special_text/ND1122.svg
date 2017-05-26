@@ -1,5 +1,5 @@
 <svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text" preserveAspectRatio="xMidYMid meet">
-    <svg viewBox="0 0 192 138" y="3.5%">
+    <svg viewBox="0 0 180 140" y="3.5%">
         <defs>
             <style type="text/css">
                 <![CDATA[
@@ -16,10 +16,10 @@
             </style>
         </defs>
 
-        <svg id="graphic-1" x="0px" y="46px" viewBox="0 0 170 13" height="13px" preserveAspectRatio="xMidYMid meet" class="draggable" xml:space="preserve" data-colorable="graphic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        <svg id="graphic-1" x="0px" y="48px" viewBox="0 0 170 13" height="13px" preserveAspectRatio="xMidYMid meet" class="draggable" xml:space="preserve" data-colorable="graphic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 			<path id="color-1" class="drag-target color-1" fill="#0B162E" d="M55.5,4.1h-55.5v6.1h55.5z"/>
         </svg>
-        <svg id="graphic-2" x="0px" y="46px" viewBox="0 0 170 13" height="13px" preserveAspectRatio="xMidYMid meet" class="draggable" xml:space="preserve" data-colorable="graphic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        <svg id="graphic-2" x="0px" y="48px" viewBox="0 0 170 13" height="13px" preserveAspectRatio="xMidYMid meet" class="draggable" xml:space="preserve" data-colorable="graphic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 			<path id="color-1" class="drag-target color-1" fill="#0B162E" d="M170,10.2h-55.5v-6.1h55.5z"/>
         </svg>
 
@@ -29,7 +29,7 @@
                   letter-spacing="0.6">FREMONT</text>
         </svg>
 
-        <svg id="year_text-wrapper" class="draggable" y="61" preserveAspectRatio="xMidYMin meet" height="25.5px">
+        <svg id="year_text-wrapper" class="draggable" y="63" preserveAspectRatio="xMidYMin meet" height="25.5px">
             <text id="year_text" data-name="year_text" data-text-max="4" class="year_text text drag-target scalable" x="50%"
                   text-anchor="middle" fill="#0B162E" font-family="heritage" font-size="22.3px" data-font-max="22.3"
                   letter-spacing="2">1894</text>
