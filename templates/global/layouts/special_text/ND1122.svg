@@ -39,7 +39,6 @@
             <text id="bottom_text" data-name="bottom_text" data-text-max="10" class="bottom_text text drag-target scalable"
                   x="50%" text-anchor="middle" fill="#B82026" font-family="heritage"
             font-size="66.14px" data-font-max="66.14" letter-spacing="5">TIGERS</text>
-
             <!--<text id="bottom_text" data-name="bottom_text" data-text-max="10" class="bottom_text text drag-target"-->
                   <!--x="50%" text-anchor="middle" transform="matrix(1.16 0 0 1 0 0)" fill="green" opacity="0.5" font-family="heritage"-->
                   <!--font-size="66.14px" data-font-max="66.14" letter-spacing="0.6">TIGERS</text>-->
