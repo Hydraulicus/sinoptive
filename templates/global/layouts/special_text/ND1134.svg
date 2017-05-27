@@ -27,7 +27,7 @@
             <text id="letter_text" data-name="letter_text" data-outline="true" data-text-max="1"
                   class="letter_text text drag-target scalable" transform="matrix(1.1258 1.223810e-002 -0.3586 0.9335 -41 0)"
                   x="50%" y="0" stroke-miterlimit="10" fill="none" font-family="city_block" stroke="#CB9E59"
-                  stroke-width="8px" font-size="224.2px" data-font-max="224.2" text-anchor="middle" letter-spacing="2">D</text>
+                  stroke-width="8px" font-size="224.2px" data-font-max="224.2" text-anchor="middle" letter-spacing="2" style="transform-origin: 50% 50%;">D</text>
         </svg>
         <svg id="main_text-wrapper" class="draggable" x="0" y="96"  height="40px"  preserveAspectRatio="xMidYMin meet">
             <text id="main_text" data-name="main_text" data-text-max="12" x="50%" class="main_text text drag-target scalable"
