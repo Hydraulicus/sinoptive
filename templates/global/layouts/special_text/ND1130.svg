@@ -28,8 +28,7 @@
                 <textPath id="top_text" data-name="top_text" data-text-max="12" data-font-max="55" class="top_text text"
                           xlink:href="#text_curve" fill="#040404" font-family="city_block" stroke="#040404"
                           stroke-width="0px" font-size="55px" text-anchor="middle" startOffset="50%" letter-spacing="1"
-                          stroke-miterlimit="10">BLUE RIDGE
-                </textPath>
+                          stroke-miterlimit="10">BLUE RIDGE</textPath>
             </text>
         </svg>
 
@@ -37,8 +36,7 @@
         <svg id="bottom_text-wrapper" class="draggable" y="144" height="50" preserveAspectRatio="xMidYMin meet">
             <text id="bottom_text" data-name="bottom_text" data-text-max="12" class="bottom_text text drag-target scalable"
                   x="50%" fill="#040404" font-family="city_block" stroke="#040404" stroke-width="0px"
-                  font-size="49.13px"  data-font-max="49.13" text-anchor="middle" letter-spacing="0.5">FOOTBALL
-            </text>
+                  font-size="49.13px"  data-font-max="49.13" text-anchor="middle" letter-spacing="0.5">FOOTBALL</text>
         </svg>
 
     </svg>
