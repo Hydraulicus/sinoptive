@@ -28,7 +28,7 @@
 			  text-anchor="middle" fill="#FFF" font-family="pro_block" font-size="20.3" stroke-width="0" data-font-max="20.3"  letter-spacing="1">1876</text>
 	</svg>
 		<svg id="bottom_text-wrapper" class="draggable" y="91.1" height="26px" preserveAspectRatio="xMidYMin meet">
-			<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target" x="50%" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="28px" data-font-max="28" letter-spacing="2">TIGERS</text>
+			<text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target scalable" x="50%" text-anchor="middle" fill="#0B162E" font-family="pro_block" font-size="28px" data-font-max="28" letter-spacing="2">TIGERS</text>
 		</svg>
 	<!--<svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet">-->
 		<!--<defs>-->
