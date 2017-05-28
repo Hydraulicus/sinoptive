@@ -17,13 +17,13 @@
 				]]>
 	</style>
 </defs>
-	<svg id="top_text-wrapper" class="draggable" y="24.5" height="35px" preserveAspectRatio="xMidYMin meet" >
+	<svg id="top_text-wrapper" class="draggable" y="24.5" height="35px" preserveAspectRatio="xMinYMin meet" >
 		<text id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target scalable" x="0" text-anchor="start" fill="#0B162E" font-family="heritage" font-size="33.7px" data-font-max="33.7" letter-spacing="0.5">MAVERICKS</text>
 	</svg>
-	<svg id="main_text-wrapper" class="draggable" y="78" height="55px" preserveAspectRatio="xMidYMin meet" >
+	<svg id="main_text-wrapper" class="draggable" y="78" height="55px" preserveAspectRatio="xMinYMin meet" >
 		<text id="main_text" data-name="main_text" data-text-max="10" class="main_text text drag-target scalable" x="-2" text-anchor="start" fill="#B82026" font-family="heritage" font-size="67.61px" data-font-max="67.61" letter-spacing="0.1">BULLDOGS</text>
 	</svg>
-	<svg id="bottom_text-wrapper" class="draggable"  y="108" height="35px" preserveAspectRatio="xMidYMin meet" >
+	<svg id="bottom_text-wrapper" class="draggable"  y="108" height="35px" preserveAspectRatio="xMinYMin meet" >
 		<text id="bottom_text" data-name="bottom_text" data-text-max="14" class="bottom_text text drag-target scalable" x="0" text-anchor="start" fill="#0B162E" font-family="heritage" font-size="33.7px" data-font-max="33.7" letter-spacing="0.3">EST. 1879</text>
 	</svg>
 </svg>
