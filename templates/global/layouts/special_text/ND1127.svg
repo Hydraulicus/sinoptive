@@ -15,7 +15,7 @@
 			]]>
 		</style>
 	</defs>
-	<svg id="letter_text-wrapper" class="draggable" y="132" height="195px" preserveAspectRatio="xMidYMin meet" >
+	<svg id="letter_text-wrapper" class="draggable" y="132" height="225px" preserveAspectRatio="xMidYMin meet" >
 		<defs>
 			<path id="letter_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0,0 h310"/>
 		</defs>
