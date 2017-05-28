@@ -34,7 +34,7 @@
             </text>
         </svg>
         <svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" y="79.5" height="106">
-            <text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target" x="50%" y="0"
+            <text id="main_text" data-name="main_text" data-text-max="6" class="main_text text drag-target scalable" x="50%" y="0"
                   data-font-max="68.4" text-anchor="middle" fill="#0B162E"
                   font-family="city_block" font-size="68.4px" letter-spacing="2">TIGERS</text>
         </svg>
