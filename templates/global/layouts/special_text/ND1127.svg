@@ -15,7 +15,7 @@
 			]]>
 		</style>
 	</defs>
-	<svg id="letter_text-wrapper" class="draggable" y="132" height="225px" preserveAspectRatio="xMidYMin meet" >
+	<svg id="letter_text-wrapper" class="draggable" y="132" height="175px" preserveAspectRatio="xMidYMin meet" >
 		<defs>
 			<path id="letter_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0,0 h310"/>
 		</defs>
@@ -24,7 +24,7 @@
 		</text>
 	</svg>
 
-	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet"  y="15px" height="120px" >
+	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet"  y="5px" height="120px" >
 		<defs>
 			<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M7.5,125c20.536-24.068,81.004-40.529,148.885-40.529c65.798,0,124.857,15.466,147.051,38.508"/>
 		</defs>
