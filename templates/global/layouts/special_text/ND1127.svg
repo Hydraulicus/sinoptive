@@ -1,5 +1,5 @@
 <svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text" preserveAspectRatio="xMidYMid meet">
-	<svg viewBox="0 0 310 140" y="3.5%">
+	<svg viewBox="0 0 310 145" y="3.5%">
 		<!--<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="green" />-->
 	 <defs>
 		<style type="text/css">
@@ -30,7 +30,7 @@
     	</svg>
 
 
-	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet"  y="15px" height="120px" >
+	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet"  y="15px" height="115px" >
 		<defs>
 			<path id="text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M7.5,125c20.536-24.068,81.004-40.529,148.885-40.529c65.798,0,124.857,15.466,147.051,38.508"/>
 		</defs>
