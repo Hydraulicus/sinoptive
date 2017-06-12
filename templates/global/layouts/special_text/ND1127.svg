@@ -25,7 +25,7 @@
 		<!--</text>-->
 	<!--</svg>-->
 
-	    <svg id="letter_text-wrapper" class="draggable" y="132" height="188px" preserveAspectRatio="xMidYMid meet">
+	    <svg id="letter_text-wrapper" class="draggable" y="132" height="194px" preserveAspectRatio="xMidYMid meet">
     		<text id="letter_text" data-name="letter_text" data-outline="true" data-text-max="1" class="letter_text text drag-target scalable" x="50%" stroke-miterlimit="10" font-family="city_block" fill="none" stroke="#BDBDC0" stroke-width="7" font-size="191.8px" data-font-max="191.8" startOffset="50%" text-anchor="middle" letter-spacing="2">W</text>
     	</svg>
 
