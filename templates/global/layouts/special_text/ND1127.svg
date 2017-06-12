@@ -15,14 +15,20 @@
 			]]>
 		</style>
 	</defs>
-	<svg id="letter_text-wrapper" class="draggable" y="132" height="200px" preserveAspectRatio="xMidYMin meet" >
-		<defs>
-			<path id="letter_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0,0 h310"/>
-		</defs>
-		<text text-anchor="middle" class="drag-target font_adjust">
-			<textPath id="letter_text" data-name="letter_text" data-text-max="2" class="letter_text text drag-target" xlink:href="#letter_text_curve" stroke-miterlimit="10" fill="none" font-family="city_block" stroke="#BDBDC0" stroke-width="7px" font-size="191.8px" data-font-max="191.8" startOffset="50%" text-anchor="middle" letter-spacing="2">W</textPath>
-		</text>
-	</svg>
+
+	<!--<svg id="letter_text-wrapper" class="draggable" y="132" height="200px" preserveAspectRatio="xMidYMin meet" >-->
+		<!--<defs>-->
+			<!--<path id="letter_text_curve" stroke-width="1.5px" stroke="red" fill="none" d="M0,0 h310"/>-->
+		<!--</defs>-->
+		<!--<text text-anchor="middle" class="drag-target font_adjust">-->
+			<!--<textPath id="letter_text" data-name="letter_text" data-text-max="2" class="letter_text text drag-target" xlink:href="#letter_text_curve" stroke-miterlimit="10" fill="none" font-family="city_block" stroke="#BDBDC0" stroke-width="7px" font-size="191.8px" data-font-max="191.8" startOffset="50%" text-anchor="middle" letter-spacing="2">W</textPath>-->
+		<!--</text>-->
+	<!--</svg>-->
+
+	    <svg id="letter_text-wrapper" class="draggable"  y="132" height="200px" preserveAspectRatio="xMidYMin meet">
+    		<text id="letter_text" data-name="letter_text" data-outline="true" data-text-max="1" class="letter_text text drag-target" x="50%" stroke-miterlimit="10" font-family="city_block" fill="none" stroke="#BDBDC0" stroke-width="7" font-size="191.8px" data-font-max="191.8" startOffset="50%" text-anchor="middle" letter-spacing="2">W</text>
+    	</svg>
+
 
 	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet"  y="5px" height="120px" >
 		<defs>
@@ -32,5 +38,6 @@
 			<textPath id="main_text" data-name="main_text" data-text-max="12" data-font-max="73.7" class="main_text text drag-target" xlink:href="#text_curve" fill="#B82026" font-family="city_block" stroke="#0B162E" stroke-width="3px" font-size="73.7px" text-anchor="middle" startOffset="50%" letter-spacing="1" stroke-miterlimit="10" >TIGERS</textPath>
 		</text>
 	</svg>
+
 </svg>
 </svg>
