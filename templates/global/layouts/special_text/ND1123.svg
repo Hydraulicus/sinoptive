@@ -18,7 +18,7 @@
 	<svg id="top_text-wrapper" class="draggable" y="25.5" height="38px" preserveAspectRatio="xMinYMin meet" >
 		<text id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target scalable" x="0" text-anchor="start" fill="#0B162E" font-family="heritage" font-size="33.7px" data-font-max="33.7" letter-spacing="0.5">MAVERICKS</text>
 	</svg>
-	<svg id="main_text-wrapper" class="draggable" y="78" height="66px" preserveAspectRatio="xMinYMin meet" >
+	<svg id="main_text-wrapper" class="draggable" y="78" height="69px" preserveAspectRatio="xMinYMin meet" >
 		<text id="main_text" data-name="main_text" data-text-max="10" class="main_text text drag-target scalable" x="-2" text-anchor="start" fill="#B82026" font-family="heritage" font-size="67.61px" data-font-max="67.61" letter-spacing="0.1">BULLDOGS</text>
 	</svg>
 	<svg id="bottom_text-wrapper" class="draggable"  y="109" height="38px" preserveAspectRatio="xMinYMin meet" >
