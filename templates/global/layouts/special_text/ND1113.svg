@@ -39,7 +39,7 @@
                   font-family="city_block" font-size="68.4px" letter-spacing="2">TIGERS</text>
         </svg>
 
-        <svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" viewBox="0 0 235.5 30" x="0" y="106.1" height="16">
+        <svg id="bottom_text-wrapper" class="draggable" preserveAspectRatio="xMidYMin meet" viewBox="0 0 235.5 30" x="0" y="106.1" height="14">
             <path id="color-1" class="drag-target color-1 capsule_background" fill="#B82026" d="M63.2,4.883c-5.723,0-10.362-4.639-10.362-10.362v-2.453 c0-5.723,4.639-10.362,10.362-10.362h109.144c5.723,0,10.362,4.639,10.362,10.362v2.453
 	C182.706,0.243,178.067,4.883,172.344,4.883z"/>
             <text id="bottom_text" data-name="bottom_text" data-text-max="8" class="bottom_text text drag-target scalable"  data-font-max="15.5"
