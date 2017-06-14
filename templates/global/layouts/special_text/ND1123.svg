@@ -1,8 +1,8 @@
-<svg version="1.1" id="layout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-colorable="special_text" preserveAspectRatio="xMidYMid meet">
-	<svg viewBox="0 0 240 113" y="3.5%">
-	 <defs>
-		<style type="text/css">
-			<![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="layout" data-colorable="special_text" preserveAspectRatio="xMidYMid meet">
+	<svg viewBox="0 0 240 113" y="3.5%" height="96%">
+		<defs>
+			<style type="text/css">
+				<![CDATA[
 				#layout svg {
 					overflow: visible;
 				}
@@ -11,18 +11,25 @@
 									src: url('http://richardsonsports.com/customizer/fonts/bebaskai-regular.woff') format('woff');
 									font-weight: normal;
 									font-style: normal;
-						}	
+						}
 				]]>
-	</style>
-</defs>
-	<svg id="top_text-wrapper" class="draggable" y="25.5" height="38px" preserveAspectRatio="xMinYMin meet" >
-		<text id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target scalable" x="0" text-anchor="start" fill="#0B162E" font-family="heritage" font-size="33.7px" data-font-max="33.7" letter-spacing="0.5">MAVERICKS</text>
+			</style>
+		</defs>
+		<svg id="top_text-wrapper" class="draggable selectable" y="26.16568374633789" height="38px" preserveAspectRatio="xMinYMin meet" viewBox="0 -29.328125 125.484375 37.328125" x="-0.8262481689453125">
+			<text id="top_text" data-name="top_text" data-text-max="10" class="top_text text drag-target scalable" x="0" text-anchor="start" fill="#0B162E" font-family="heritage" font-size="33.7px" data-font-max="33.7" letter-spacing="0.5" style="fill: rgb(11, 22, 46); stroke-width: 0;" dx="0" dy="-29.328125">MAVERICKS</text>
+			<g class="select_group top_text-wrapper" fill="transparent"></g>
+			<rect class="target_proxy" x="0" y="-59.078125" width="124.828125" height="37.328125" fill="none"></rect>
+		</svg>
+		<svg id="main_text-wrapper" class="draggable selectable" y="76.33010864257812" height="71px" preserveAspectRatio="xMinYMin meet" viewBox="-4 -60 215.609375 75.328125" x="1.265336513519287">
+			<text id="main_text" data-name="main_text" data-text-max="10" class="main_text text drag-target scalable" x="-4" text-anchor="start" fill="#B82026" font-family="heritage" font-size="67.61px" data-font-max="67.61" letter-spacing="0.1" style="fill: rgb(184, 32, 38); stroke-width: 0;" dx="-4" dy="-60">BULLDOGS</text>
+			<g class="select_group main_text-wrapper" fill="transparent"></g>
+			<rect class="target_proxy" x="-8" y="-119.34375" width="216.515625" height="74.703125" fill="none"></rect>
+		</svg>
+		<svg id="bottom_text-wrapper" class="draggable selectable" y="105.87400817871094" height="38px" preserveAspectRatio="xMinYMin meet" viewBox="0 -29.328125 103.890625 37.328125" x="-1.4506607055664062">
+			<text id="bottom_text" data-name="bottom_text" data-text-max="14" class="bottom_text text drag-target scalable" x="0" text-anchor="start" fill="#0B162E" font-family="heritage" font-size="33.7px" data-font-max="33.7" letter-spacing="0.3" style="fill: rgb(11, 22, 46); stroke-width: 0;" dx="0" dy="-29.328125">EST. 1879</text>
+			<g class="select_group bottom_text-wrapper" fill="transparent"></g>
+			<rect class="target_proxy" x="0" y="-59.078125" width="103.34375" height="37.328125" fill="none"></rect>
+		</svg>
+		<rect class="container_proxy" x="0" y="0" width="100%" height="100%" fill="none"></rect>
 	</svg>
-	<svg id="main_text-wrapper" class="draggable" y="78" height="71px" preserveAspectRatio="xMinYMin meet" >
-		<text id="main_text" data-name="main_text" data-text-max="10" class="main_text text drag-target scalable" x="-4" text-anchor="start" fill="#B82026" font-family="heritage" font-size="67.61px" data-font-max="67.61" letter-spacing="0.1">BULLDOGS</text>
-	</svg>
-	<svg id="bottom_text-wrapper" class="draggable"  y="109" height="38px" preserveAspectRatio="xMinYMin meet" >
-		<text id="bottom_text" data-name="bottom_text" data-text-max="14" class="bottom_text text drag-target scalable" x="0" text-anchor="start" fill="#0B162E" font-family="heritage" font-size="33.7px" data-font-max="33.7" letter-spacing="0.3">EST. 1879</text>
-	</svg>
-</svg>
 </svg>
