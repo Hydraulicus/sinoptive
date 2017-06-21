@@ -11,7 +11,7 @@
 					font-family: 'city_block';
 							src: url('http://richardsonsports.com/customizer/fonts/cityb.woff') format('woff');
 					font-weight: bold;
-							};
+							}
 			]]>
 		</style>
 	</defs>
@@ -22,9 +22,11 @@
 
 	<svg id="main_text-wrapper" class="draggable" preserveAspectRatio="xMidYMax meet"  y="15px" height="115px" >
 		<defs>
-			<path id="text_curve" stroke-width="1.5px" stroke="blue" fill="none" d="M30,113c18.5-36.6,231-37.9,249.8,0.3"/>
 			<!--<path id="text_curve_old" stroke-width="1.5px" stroke="red" fill="none" d="M7.5,125c20.536-24.068,81.004-40.529,148.885-40.529c65.798,0,124.857,15.466,147.051,38.508"/>-->
 		</defs>
+			<path id="text_curve_red" stroke-width="1.5px" stroke="red" fill="none" d="M45,110.5c18.5-34.1,201-35.4,219.8,0.3"/>
+			<path id="text_curve" stroke-width="1.5px" stroke="magenta" fill="none" d="M37.5,111c18.5-34.6,216-35.9,234.8,0.3"/>
+			<path id="text_curve_blue" stroke-width="1.5px" stroke="blue" fill="none" d="M30,113c18.5-36.6,231-37.9,249.8,0.3"/>
 		<text text-anchor="middle" class="drag-target font_adjust">
 			<textPath id="main_text" data-name="main_text" data-text-max="12" data-font-max="73.7" class="main_text text drag-target" xlink:href="#text_curve" fill="#B82026" font-family="city_block" stroke="#0B162E" stroke-width="3px" font-size="73.7px" text-anchor="middle" startOffset="50%" letter-spacing="1" stroke-miterlimit="10" >Tigers</textPath>
 		</text>
